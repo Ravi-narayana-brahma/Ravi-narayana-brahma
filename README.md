@@ -28,7 +28,7 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 ### 📫 Connect with Me
 
 <a href="https://www.linkedin.com/in/your-linkedin-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" height="60">
 </a>
 <a href="https://twitter.com/your-twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" height="30">
