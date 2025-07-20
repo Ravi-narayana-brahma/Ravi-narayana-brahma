@@ -3,20 +3,31 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ---
 
-### 💻 Tech Stack  
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
+Here’s a clean **“Skills & Tools” widget section** using badges you can paste into your `README.md` or portfolio:
+
+---
+
+### 🛠️ Skills & Tools
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)](#)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white\&style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle\&logoColor=white\&style=for-the-badge)](#)
+[![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoft\&logoColor=white\&style=for-the-badge)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi\&logoColor=black\&style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](#)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=for-the-badge)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel\&logoColor=white\&style=for-the-badge)](#)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)](#)
+
+---
+
+📝 You can adjust badge size, color, or order. Want them in rows or responsive grid layout on your site? I can help with that too!
+
 
 
 ---
