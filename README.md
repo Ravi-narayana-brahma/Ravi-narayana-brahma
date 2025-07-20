@@ -27,20 +27,11 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-fff?style=social&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-fff?style=social&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-fff?style=social&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-fff?style=social&logo=gmail" alt="Gmail"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://your-portfolio.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
 
 
