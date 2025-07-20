@@ -26,5 +26,5 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 ---
 
 ### 📫 Connect With Me  
-- Portfolio: [(add your portfolio link if available)](https://portfolio-five-pied-22.vercel.app/)
+- Portfolio: (https://portfolio-five-pied-22.vercel.app/)
 - Email: ravinaryanab25@gmail.com
