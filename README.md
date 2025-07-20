@@ -27,21 +27,11 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📫 Connect with Me
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30">
-</a>
-&nbsp;
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" height="30">
-</a>
-&nbsp;
-<a href="https://github.com/your-github-username" target="_blank">
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30">
-</a>
-&nbsp;
-<a href="mailto:your-email@example.com" target="_blank">
-  <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 
 
 
