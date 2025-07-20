@@ -5,8 +5,8 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 💻 Tech Stack  
 - Frontend: **HTML, CSS, JavaScript**  
-- Backend: **Java, Servlets, SQL**  
-- Tools: **MySQL, Git, Eclipse**
+- Backend: **Java, Servlets, SQL, Python**  
+- Tools: **MySQL, Git, Eclipse, VSCode, GitHub**
 
 ---
 
