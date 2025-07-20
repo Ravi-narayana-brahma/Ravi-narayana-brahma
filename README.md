@@ -27,20 +27,21 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📫 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-fff?style=social&logo=linkedin" style="transform: scale(1.5); margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-fff?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-fff?style=social&logo=twitter" style="transform: scale(1.5); margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-fff?style=social&logo=twitter" alt="Twitter"/>
   </a>
   <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-fff?style=social&logo=github" style="transform: scale(1.5); margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-fff?style=social&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-fff?style=social&logo=gmail" style="transform: scale(1.5);">
+    <img src="https://img.shields.io/badge/-fff?style=social&logo=gmail" alt="Gmail"/>
   </a>
 </p>
+
 
 
 
