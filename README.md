@@ -27,10 +27,8 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=social&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-fff?style=social&logo=twitter)](https://twitter.com/your-twitter)
-[![GitHub](https://img.shields.io/badge/-GitHub-fff?style=social&logo=github)](https://github.com/your-username)
-[![Gmail](https://img.shields.io/badge/-Gmail-fff?style=social&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](...)
+
 
 
 
