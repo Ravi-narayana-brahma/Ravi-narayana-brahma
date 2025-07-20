@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋  
+I'm a Final Year B.Tech Student 🎓 passionate about building complete web applications that are both functional and user-friendly.
 
-<!--
-**Ravi-narayana-brahma/Ravi-narayana-brahma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack  
+- Frontend: **HTML, CSS, JavaScript**  
+- Backend: **Java, Servlets, SQL**  
+- Tools: **MySQL, Git, Eclipse**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I’m Up To  
+- 🌱 Currently learning: **REST APIs**, **Angular**, and **Node.js**  
+- 💻 Practicing full-stack development with real-world projects  
+- 🤝 Open to collaborations on web-based applications
+
+---
+
+### 📊 GitHub Stats  
+
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-narayana-brahma&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-narayana-brahma&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me  
+- Portfolio: [(add your portfolio link if available)](https://portfolio-five-pied-22.vercel.app/)
+- Email: ravinaryanab25@gmail.com
