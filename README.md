@@ -23,7 +23,7 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 ---
 
 ### 🚀 What I’m Up To  
-- 🌱 Currently learning: **REST APIs**, **Angular**, and **Node.js**  
+- 🌱 Leveling up in: REST APIs, Angular, and Node.js Backend Magic
 - 💻 Practicing full-stack development with real-world projects  
 - 🤝 Open to collaborations on web-based applications
 
