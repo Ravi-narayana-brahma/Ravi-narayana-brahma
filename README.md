@@ -30,7 +30,7 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-narayana-brahma-3493b229a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=github&logoColor=white)](https://portfolio-five-pied-22.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ravinaryanab25@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ravinaryanab25@gmail.com)
 
 
 
