@@ -3,10 +3,6 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ---
 
-Here’s a clean **“Skills & Tools” widget section** using badges you can paste into your `README.md` or portfolio:
-
----
-
 ### 🛠️ Skills & Tools
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)](#)
@@ -23,12 +19,6 @@ Here’s a clean **“Skills & Tools” widget section** using badges you can pa
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=for-the-badge)](#)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel\&logoColor=white\&style=for-the-badge)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)](#)
-
----
-
-📝 You can adjust badge size, color, or order. Want them in rows or responsive grid layout on your site? I can help with that too!
-
-
 
 ---
 
