@@ -27,10 +27,21 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/.-000?style=flat-rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/.-000?style=flat-rounded&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![GitHub](https://img.shields.io/badge/.-000?style=flat-rounded&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Gmail](https://img.shields.io/badge/.-000?style=flat-rounded&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30">
+</a>
+&nbsp;
+<a href="https://twitter.com/your-twitter" target="_blank">
+  <img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="30" height="30">
+</a>
+&nbsp;
+<a href="https://github.com/your-github-username" target="_blank">
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" height="30">
+</a>
+&nbsp;
+<a href="mailto:your-email@example.com" target="_blank">
+  <img alt="Gmail" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30">
+</a>
 
 
 
