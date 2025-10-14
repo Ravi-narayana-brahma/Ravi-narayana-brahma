@@ -25,9 +25,13 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 ---
 
 ### 🚀 What I’m Up To  
-- 🌱 Leveling up in: REST APIs, Angular, and Node.js Backend Magic
-- 💻 Practicing full-stack development with real-world projects  
-- 🤝 Open to collaborations on web-based applications
+- 🌱 Leveling up in: REST APIs, Node.js Backend, and Data Analysis with Python & SQL
+
+- 💻 Practicing full-stack development and data-driven projects with real datasets
+
+- 📊 Building interactive dashboards, analytics tools, and web applications
+
+- 🤝 Open to collaborations on web development and data analytics projects
 
 ---
 
