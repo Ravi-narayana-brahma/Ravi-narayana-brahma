@@ -19,7 +19,9 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=for-the-badge)](#)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel\&logoColor=white\&style=for-the-badge)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)](#)
-
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 ---
 
 ### 🚀 What I’m Up To  
