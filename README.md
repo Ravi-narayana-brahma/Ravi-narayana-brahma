@@ -37,9 +37,9 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 
 ### 📊 GitHub Stats  
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravi-narayana-brahma&show_icons=true&theme=radical&cache_seconds=86400)
+![Ravi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ravi-narayana-brahma&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-narayana-brahma&layout=compact&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ravi-narayana-brahma&layout=compact&theme=radical)
 
 ---
 
