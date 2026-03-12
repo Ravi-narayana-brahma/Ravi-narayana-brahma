@@ -9,7 +9,6 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)](#)
 [![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white\&style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)](#)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle\&logoColor=white\&style=for-the-badge)](#)
 [![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoft\&logoColor=white\&style=for-the-badge)](#)
@@ -18,14 +17,13 @@ I'm a Final Year B.Tech Student 🎓 passionate about building complete web appl
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white\&style=for-the-badge)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white\&style=for-the-badge)](#)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel\&logoColor=white\&style=for-the-badge)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 ---
 
 ### 🚀 What I’m Up To  
-- 🌱 Leveling up in: REST APIs, Node.js Backend, and Data Analysis with Python & SQL
+- 🌱 Leveling up in: REST APIs, SpringBoot Backend
 
 - 💻 Practicing full-stack development and data-driven projects with real datasets
 
